@@ -26,7 +26,7 @@ def add_colors
 ]
 rainbow_colors << ('green')
 rainbow_colors << ('blue')
-puts rainbow_colorss
+puts rainbow_colors
   # Write a solution that adds "green", then "blue" to the rainbow_colors array, then returns the array
 end
 add_colors
